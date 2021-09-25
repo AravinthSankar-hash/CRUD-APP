@@ -1,5 +1,6 @@
 {
   "name": "app-for-poorvi",
+  "author": "Aravinth Sankar" ,
   "version": "0.1.0",
   "private": true,
   "dependencies": {
