@@ -1,0 +1,17 @@
+.reg-form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+input {
+    padding: 7px;
+    width: 120%;
+    font-size: 1rem;
+  }
+
+.disabled-btn {
+  cursor: not-allowed;
+  background: #8a8889;
+}
