@@ -6,13 +6,12 @@ React appliaction
     	npm start - in both APP & API to run the application
 
 ###### when the application is up and running follow the below
-    Navigate to http://localhost:3000/
-    Click Register
-    Create one user with following details ( application will recognize this user as admin )
-        Name: SYS_ADMIN
-        email: systemadmin@poorvika.com
-        password: admin123
-    Try login with this user details
+	Navigate to http://localhost:3000/
+	Click Login
+    		Name: SYS_ADMIN
+    		email: systemadmin@poorvika.com
+    		password: admin123
+	Try login with this user details (system will recognize this user as admin)
 
 ###### About the application
 	Ability for the users to register through a registration form (unique emailID)
